@@ -1,0 +1,1 @@
+ALTER TABLE "sale_items" ALTER COLUMN "cost_price" SET NOT NULL;
